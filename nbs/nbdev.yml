@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "entsoe"
+  site-url: "https://jvanelteren.github.io/entsoe"
+  description: "Playing with ENTSOE data"
+  repo-branch: main
+  repo-url: "https://github.com/jvanelteren/entsoe"
